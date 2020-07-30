@@ -1,0 +1,133 @@
+a {
+  color: #11999e;
+}
+a:hover {
+  color: #eaf6f6;
+}
+.bike-img {
+  float: right;
+  margin-left: 30px;
+  width: 25%;
+}
+body {
+  height: 100%;
+  font-family: "Merriweather", serif;
+  margin: 0px;
+  text-align: center;
+  margin-bottom: 0;
+}
+.bottom {
+  background-color: blue;
+  height: 200px;
+  width: 200px;
+}
+.bottom-cloud {
+  position: absolute;
+  right: 900px;
+  top: 200px;
+}
+.bottom-container {
+  background-color: #66bfbf;
+  height: 150px;
+}
+.btm {
+  margin-bottom: 0;
+}
+.btn {
+  background: #66bfbf;
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  border-radius: 20px;
+  color: #eaf6f6;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 100;
+  margin: 50px auto;
+  padding: 15px;
+  text-decoration: none;
+  display: inline-block;
+  cursor: pointer;
+  text-align: center;
+}
+
+.btn:hover {
+  color: #eaf6f6;
+  background: #5fdde5;
+  -webkit-border-radius: 20px;
+  border-radius: 20px;
+  text-decoration: none;
+}
+.copyr {
+  color: #eaf6f6;
+  font-family: "Montserrat", sans-serif;
+  position: relative;
+  top: 60px;
+}
+.contactme {
+  margin-bottom: 0;
+}
+.footer-link {
+  margin: auto 150px;
+  position: relative;
+  text-decoration: none;
+  top: 30px;
+}
+h1 {
+  color: #66bfbf;
+  font-family: "Sacramento", cursive;
+  font-size: 5.62rem;
+  margin-top: 50px auto 0 auto;
+}
+h2 {
+  color: #66bfbf;
+  font-family: "Montserrat", sans-serif;
+  font-size: 2.5rem;
+  font-weight: normal;
+  line-height: 2;
+}
+
+h3 {
+  color: #11999e;
+  font-family: "Montserrat", sans-serif;
+}
+hr {
+  margin-top: 100px;
+  color: #888888;
+  border-style: dotted;
+  border-bottom: 0;
+  border-width: 5px;
+  size: 10px;
+  width: 5%;
+}
+.middle {
+  background-color: red;
+  height: 200px;
+  width: 200px;
+}
+
+.profile-img {
+  margin-top: 25px;
+  height: 300px;
+  width: 300px;
+}
+.skate-img {
+  float: left;
+  margin-right: 30px;
+  width: 25%;
+}
+.skill-row {
+  display: inline-block;
+  line-height: 2;
+  margin: 50px auto;
+  text-align: left;
+  width: 50%;
+}
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+.top-container {
+  background-color: paleturquoise;
+  padding-top: 100px;
+  position: relative;
+}
